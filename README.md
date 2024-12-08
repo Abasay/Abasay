@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abasay, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Abasay, a full-stack software engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Rydepro](https://m.katabenterprises.com)  
