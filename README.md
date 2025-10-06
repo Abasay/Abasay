@@ -6,16 +6,13 @@
 ### <div align="center">I'm Abasay, a full-stack software engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Rydepro](https://m.katabenterprises.com)  
+- 🔭 I’m currently working on [Rydepro](https://rydepro.com)  
   
 
-- 🌱 I’m currently learning Server Management  
+- 🌱 I’m currently learning Mobile Development
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I have pink lips, though I'm black in complexion  
   
 
 <br/>  
