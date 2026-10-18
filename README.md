@@ -105,7 +105,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <details>
 <summary><b>EzzyRun</b>: Software Engineer · <i>Apr 2025 – Feb 2026 · Lagos, Nigeria</i></summary>
 
-- Built and maintained RESTful APIs with **NestJS and MongoDB** ([ezzyrun.ng](https://ezzyrun.ng/)), integrating **Kora Payments** and **Brevo**.
+- Built and maintained RESTful APIs with **NestJS and MongoDB** for the [EzzyRun](https://ezzyrun.ng/) ecosystem (EzzyBenefits employee-benefits platform and EzzyExpress grocery delivery), integrating **Kora Payments** and **Brevo**.
 - Achieved a **40% increase in backend performance** by refactoring critical code paths and optimising data retrieval.
 - Collaborated on a mobile-first redesign that drove a **15% increase in mobile engagement**.
 - Architected and launched **[ezzyexpress.ng](https://ezzyexpress.ng/)** from concept to production: a grocery delivery marketplace with guest checkout, order tracking, gift vouchers and diaspora shopping.
@@ -124,7 +124,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <details>
 <summary><b>Cenntre</b>: Software Engineer, Backend (Contract) · <i>Dec 2023 – Oct 2024 · California, USA (Remote)</i></summary>
 
-- Integrated **Stripe and PayPal** for secure payments ([cenntre.com](https://cenntre.com/)).
+- Integrated **Stripe and PayPal** for secure payments on [Cenntre](https://www.cenntre.com/), a monetization platform for the creator economy where creators share content, get discovered and earn.
 - Worked with the frontend team to improve API integration and user experience.
 - Ran code reviews to improve performance and maintain code quality.
 
