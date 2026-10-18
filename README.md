@@ -2,7 +2,7 @@
 
 # Hi, I'm Asheem Abdulsalam 👋
 
-### Full-Stack Software Engineer · Next.js · React / React Native · Node.js · NestJS · AWS
+### Full-Stack Software Engineer · Next.js · React / React Native · Node.js · NestJS · Java / Spring Boot · AWS
 
 <a href="https://abasay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/asheem-abdulsalam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,6 +19,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 
 - 💼 **Software Engineer** on the Applications Services team at [Bluechip Technologies](https://bluechiptech.biz/), a pan-African enterprise data, AI and applications services firm
 - 🏫 **Full-Stack Software Engineer** at [Hillside University of Science and Technology](https://hust-bursary.web.app/), building finance, procurement and inventory systems
+- ☕ Building backend services in **Java & Spring Boot** alongside Node.js and NestJS
 - 🔌 Experienced with **payment integrations** (Stripe, PayPal, Kora), **real-time features**, **geospatial data** and **CI/CD**
 - 🎓 B.Eng Electrical/Electronic Engineering, **Ekiti State University** (CGPA 4.73/5.00) · **ALX Software Engineering** graduate
 - 🌍 Languages: English · Yoruba · Arabic
@@ -48,6 +49,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
