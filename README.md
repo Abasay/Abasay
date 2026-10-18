@@ -18,7 +18,7 @@
 I build scalable, high-performance applications across **web and mobile**: from API design and database modelling to polished, user-focused interfaces and cloud deployment.
 
 - 💼 **Software Engineer** on the Applications Services team at [Bluechip Technologies](https://bluechiptech.biz/), a pan-African enterprise data, AI and applications services firm
-- 🏫 **Full-Stack Software Engineer** at [Hillside University of Science and Technology](https://hust-bursary.web.app/), building finance, procurement and inventory systems
+- 🏫 **Full-Stack Software Engineer** at [Hillside University of Science and Technology](https://hust-ventures.web.app/), building finance, procurement and inventory systems
 - ☕ Building backend services in **Java & Spring Boot** alongside Node.js and NestJS
 - 🔌 Experienced with **payment integrations** (Stripe, PayPal, Kora), **real-time features**, **geospatial data** and **CI/CD**
 - 🎓 B.Eng Electrical/Electronic Engineering, **Ekiti State University** (CGPA 4.73/5.00) · **ALX Software Engineering** graduate
@@ -88,7 +88,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <details open>
 <summary><b>Hillside University of Science and Technology</b>: Software Engineer, Full-Stack · <i>Aug 2025 – Present · Ekiti, Nigeria</i></summary>
 
-- Built **[HUST Bursary](https://hust-bursary.web.app/)**, the university's campus management platform for **financial, procurement and administrative** operations.
+- Built **[HUST Ventures](https://hust-ventures.web.app/)**, the university's campus management platform for **financial, procurement and administrative** operations.
 - Automated **transaction and purchase-request workflows**, cutting manual processes and improving tracking.
 - Developed **inventory management software** for real-time resource tracking across departments.
 
@@ -107,7 +107,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <details>
 <summary><b>EzzyRun</b>: Software Engineer · <i>Apr 2025 – Feb 2026 · Lagos, Nigeria</i></summary>
 
-- Built and maintained RESTful APIs with **NestJS and MongoDB** for the [EzzyRun](https://ezzyrun.ng/) ecosystem (EzzyBenefits employee-benefits platform and EzzyExpress grocery delivery), integrating **Kora Payments** and **Brevo**.
+- Built and maintained RESTful APIs with **NestJS and MongoDB** for the [EzzyRun](https://ezzybenefits.ng/) ecosystem (EzzyBenefits employee-benefits platform and EzzyExpress grocery delivery), integrating **Kora Payments** and **Brevo**.
 - Achieved a **40% increase in backend performance** by refactoring critical code paths and optimising data retrieval.
 - Collaborated on a mobile-first redesign that drove a **15% increase in mobile engagement**.
 - Architected and launched **[ezzyexpress.ng](https://ezzyexpress.ng/)** from concept to production: a grocery delivery marketplace with guest checkout, order tracking, gift vouchers and diaspora shopping.
@@ -149,7 +149,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 | --- | --- | --- |
 | [**RydePro**](https://rydepro.com/) · [admin](https://github.com/Abasay/rydepro-admin) | Veteran-owned chauffeur and airport-transfer platform in California: on-demand, round-trip, hourly and multi-destination bookings with real-time pricing | Next.js, React, Node.js, Express, PM2 |
 | [**EzzyExpress**](https://ezzyexpress.ng/) | Grocery delivery marketplace (EzzyRun sub-app): fresh-produce catalogue, guest checkout, order tracking, vouchers and diaspora shopping | NestJS, MongoDB, Kora, Brevo |
-| [**HUST Bursary**](https://hust-bursary.web.app/) | Campus management platform: bursary transactions, purchase-request workflows and inventory tracking | Full-stack, Firebase Hosting |
+| [**HUST Ventures**](https://hust-ventures.web.app/) | Campus management platform: bursary transactions, purchase-request workflows and inventory tracking | Full-stack, Firebase Hosting |
 | [**Khabi-Teq Realty**](https://www.khabiteqrealty.com/) | Real-estate platform: agent onboarding, listings, verification and RBAC dashboards | Node.js, JWT, REST |
 | [**NOMOMICS**](https://github.com/Abasay/NOMOMICS) | Web application built with TypeScript | TypeScript, Next.js |
 | [**AirBnB Clone**](https://github.com/Abasay/AirBnB_clone) | ALX project: command interpreter and storage engine for an AirBnB-style app | Python |
