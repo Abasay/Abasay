@@ -17,7 +17,7 @@
 
 I build scalable, high-performance applications across **web and mobile**: from API design and database modelling to polished, user-focused interfaces and cloud deployment.
 
-- 💼 **Junior Software Developer** on the Applications Services team at [Bluechip Technologies](https://bluechiptech.biz/) (Lagos)
+- 💼 **Software Engineer** on the Applications Services team at [Bluechip Technologies](https://bluechiptech.biz/), a pan-African enterprise data, AI and applications services firm
 - 🏫 **Full-Stack Software Engineer** at [Hillside University of Science and Technology](https://hust-bursary.web.app/), building finance, procurement and inventory systems
 - 🔌 Experienced with **payment integrations** (Stripe, PayPal, Kora), **real-time features**, **geospatial data** and **CI/CD**
 - 🎓 B.Eng Electrical/Electronic Engineering, **Ekiti State University** (CGPA 4.73/5.00) · **ALX Software Engineering** graduate
@@ -76,7 +76,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 ## 💼 Experience
 
 <details open>
-<summary><b>Bluechip Technologies</b>: Junior Software Developer · <i>Aug 2026 – Present · Lagos, Nigeria</i></summary>
+<summary><b>Bluechip Technologies</b>: Software Engineer · <i>Aug 2026 – Present · Lagos, Nigeria</i></summary>
 
 - Develop, maintain and enhance software applications as part of the **Applications Services** team.
 - Apply modern engineering practices to deliver reliable, maintainable and scalable solutions aligned with organisational requirements.
@@ -86,7 +86,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <details open>
 <summary><b>Hillside University of Science and Technology</b>: Software Engineer, Full-Stack · <i>Aug 2025 – Present · Ekiti, Nigeria</i></summary>
 
-- Built full-stack systems for the university's **financial, procurement and administrative** operations ([Bursary portal](https://hust-bursary.web.app/)).
+- Built **[HUST Bursary](https://hust-bursary.web.app/)**, the university's campus management platform for **financial, procurement and administrative** operations.
 - Automated **transaction and purchase-request workflows**, cutting manual processes and improving tracking.
 - Developed **inventory management software** for real-time resource tracking across departments.
 
@@ -95,7 +95,8 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <details>
 <summary><b>RydePro</b>: Software Engineer, Frontend · <i>Jun 2024 – Aug 2026 · California, USA (Remote)</i></summary>
 
-- Built a full-stack **ride-sharing platform** ([rydepro.com](https://rydepro.com/)) with Next.js, React, Node.js and Express.js.
+- Built a full-stack **ride-sharing platform** ([rydepro.com](https://rydepro.com/)) with Next.js, React, Node.js and Express.js: a veteran-owned chauffeur and airport/city-transfer service across Southern and Northern California.
+- Shipped booking flows for **on-demand, one-way, round-trip, hourly and multi-destination** rides, plus additional-vehicle bookings and an admin dashboard.
 - Developed **real-time ride-booking and pricing algorithms**, managing application state and geospatial data.
 - Deployed and tuned servers with **PM2 on a Liquid Web dedicated server** for scalability.
 
@@ -107,7 +108,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 - Built and maintained RESTful APIs with **NestJS and MongoDB** ([ezzyrun.ng](https://ezzyrun.ng/)), integrating **Kora Payments** and **Brevo**.
 - Achieved a **40% increase in backend performance** by refactoring critical code paths and optimising data retrieval.
 - Collaborated on a mobile-first redesign that drove a **15% increase in mobile engagement**.
-- Architected and launched **[ezzyexpress.ng](https://ezzyexpress.ng/)**, a standalone sub-application, from concept to production.
+- Architected and launched **[ezzyexpress.ng](https://ezzyexpress.ng/)** from concept to production: a grocery delivery marketplace with guest checkout, order tracking, gift vouchers and diaspora shopping.
 
 </details>
 
@@ -144,9 +145,9 @@ I build scalable, high-performance applications across **web and mobile**: from 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**RydePro**](https://rydepro.com/) · [admin](https://github.com/Abasay/rydepro-admin) | Ride-sharing platform with real-time booking, dynamic pricing and geospatial tracking | Next.js, React, Node.js, Express, PM2 |
-| [**EzzyExpress**](https://ezzyexpress.ng/) | Standalone delivery sub-app for EzzyRun, taken from concept to production | NestJS, MongoDB, Kora, Brevo |
-| [**HUST Bursary**](https://hust-bursary.web.app/) | University finance, procurement and purchase-request workflow system | Full-stack, Firebase |
+| [**RydePro**](https://rydepro.com/) · [admin](https://github.com/Abasay/rydepro-admin) | Veteran-owned chauffeur and airport-transfer platform in California: on-demand, round-trip, hourly and multi-destination bookings with real-time pricing | Next.js, React, Node.js, Express, PM2 |
+| [**EzzyExpress**](https://ezzyexpress.ng/) | Grocery delivery marketplace (EzzyRun sub-app): fresh-produce catalogue, guest checkout, order tracking, vouchers and diaspora shopping | NestJS, MongoDB, Kora, Brevo |
+| [**HUST Bursary**](https://hust-bursary.web.app/) | Campus management platform: bursary transactions, purchase-request workflows and inventory tracking | Full-stack, Firebase Hosting |
 | [**Khabi-Teq Realty**](https://www.khabiteqrealty.com/) | Real-estate platform: agent onboarding, listings, verification and RBAC dashboards | Node.js, JWT, REST |
 | [**NOMOMICS**](https://github.com/Abasay/NOMOMICS) | Web application built with TypeScript | TypeScript, Next.js |
 | [**AirBnB Clone**](https://github.com/Abasay/AirBnB_clone) | ALX project: command interpreter and storage engine for an AirBnB-style app | Python |
