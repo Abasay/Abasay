@@ -98,7 +98,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 <summary><b>RydePro</b>: Software Engineer, Frontend · <i>Jun 2024 – Aug 2026 · California, USA (Remote)</i></summary>
 
 - Built a full-stack **ride-sharing platform** ([rydepro.com](https://rydepro.com/)) with Next.js, React, Node.js and Express.js: a veteran-owned chauffeur and airport/city-transfer service across Southern and Northern California.
-- Shipped booking flows for **on-demand, one-way, round-trip, hourly and multi-destination** rides, plus additional-vehicle bookings and an admin dashboard.
+- Shipped booking flows for **one-way, round-trip and hourly** rides, plus an admin dashboard.
 - Developed **real-time ride-booking and pricing algorithms**, managing application state and geospatial data.
 - Deployed and tuned servers with **PM2 on a Liquid Web dedicated server** for scalability.
 
@@ -147,7 +147,7 @@ I build scalable, high-performance applications across **web and mobile**: from 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**RydePro**](https://rydepro.com/) · [admin](https://github.com/Abasay/rydepro-admin) | Veteran-owned chauffeur and airport-transfer platform in California: on-demand, round-trip, hourly and multi-destination bookings with real-time pricing | Next.js, React, Node.js, Express, PM2 |
+| [**RydePro**](https://rydepro.com/) · [admin](https://github.com/Abasay/rydepro-admin) | Veteran-owned chauffeur and airport-transfer platform in California: one-way, round-trip and hourly bookings with real-time pricing | Next.js, React, Node.js, Express, PM2 |
 | [**EzzyExpress**](https://ezzyexpress.ng/) | Grocery delivery marketplace (EzzyRun sub-app): fresh-produce catalogue, guest checkout, order tracking, vouchers and diaspora shopping | NestJS, MongoDB, Kora, Brevo |
 | [**HUST Ventures**](https://hust-ventures.web.app/) | Campus management platform: bursary transactions, purchase-request workflows and inventory tracking | Full-stack, Firebase Hosting |
 | [**Khabi-Teq Realty**](https://www.khabiteqrealty.com/) | Real-estate platform: agent onboarding, listings, verification and RBAC dashboards | Node.js, JWT, REST |
